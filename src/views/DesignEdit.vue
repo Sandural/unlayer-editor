@@ -33,7 +33,7 @@ export default {
   data() {
     return {
       locale: "zh-CN",
-      projectId: 0
+      projectId: 71028
     }
   },
   methods: {
